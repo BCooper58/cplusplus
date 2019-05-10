@@ -1,9 +1,4 @@
-// 2d_array_8by8.c
-//open this file and rename it as  2d_8x8_rgb.cpp
-// create a switch case that sets red, green, and blue integers
-// base on integer values from array m[r][c]
-// val = m[r][c]
-// red,green, and blue range is from 0 to 255
+
 #include <iostream>
 #include <stdio.h>
 int main()
